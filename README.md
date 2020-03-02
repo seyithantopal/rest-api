@@ -22,10 +22,10 @@ Run `npm test` (It should be done for the first time without inserting any data)
 `http://localhost:3000/triangle?a=3&b=4&c=5`
 
 - **Equilateral**: All sides are equal
-`http://localhost:3000/triangle?a=3&b=4&c=5`
+`http://localhost:3000/triangle?a=3&b=3&c=3`
 
 - **Isosceles**: Two sides are equal
-`http://localhost:3000/triangle?a=3&b=4&c=5`
+`http://localhost:3000/triangle?a=3&b=3&c=5`
 
 - **Incorrect**: It is not a correct triangle
 `http://localhost:3000/triangle?a=3&b=4&`
