@@ -12,7 +12,7 @@ In order to test it,
 
 Run `npm install --dev`
 
-Run `npm test` 
+Run `npm test` (It should be done for the first time without inserting any data)
 
 ### Examples
 ---
