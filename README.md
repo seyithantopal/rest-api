@@ -66,10 +66,6 @@ Content-Type: application/json
 }
 ```
 
-
-- **Delete Posts**:
-`DELETE - http://localhost:3000/posts/`
-
 - **Delete a Post**:
 `DELETE - http://localhost:3000/posts/{id}`
 
@@ -106,9 +102,6 @@ Content-Type: application/json
 	"date": "03/02/2020"
 }
 ```
-
-- **Delete Comments**:
-`DELETE - http://localhost:3000/comments/`
 
 - **Delete a Comment**:
 `DELETE - http://localhost:3000/comments/{id}`
