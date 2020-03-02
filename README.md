@@ -48,10 +48,14 @@ Content-Type: application/json
 ```
 
 - **Read Posts**:
-`GET - http://localhost:3000/posts/`
+```
+GET - http://localhost:3000/posts/
+```
 
 - **Read a Post**:
-`GET - http://localhost:3000/posts/{id}`
+```
+GET - http://localhost:3000/posts/{id}
+```
 
 - **Update a Post**:
 
@@ -67,7 +71,9 @@ Content-Type: application/json
 ```
 
 - **Delete a Post**:
-`DELETE - http://localhost:3000/posts/{id}`
+```
+DELETE - http://localhost:3000/posts/{id}
+```
 
 #### Comment
 ---
@@ -85,10 +91,14 @@ Content-Type: application/json
 ```
 
 - **Read Comments**:
-`GET - http://localhost:3000/comments/`
+```
+GET - http://localhost:3000/comments/
+```
 
 - **Read a Comment**:
-`GET - http://localhost:3000/comments/{id}`
+```
+GET - http://localhost:3000/comments/{id}
+```
 
 - **Update a Comment**:
 
@@ -104,4 +114,6 @@ Content-Type: application/json
 ```
 
 - **Delete a Comment**:
-`DELETE - http://localhost:3000/comments/{id}`
+```
+DELETE - http://localhost:3000/comments/{id}
+```
